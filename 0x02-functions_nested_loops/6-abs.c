@@ -11,8 +11,6 @@ int_abs(int c)
 	{
 	return (c);
         }
-        else
-	{	
-	return (c * -1);
-	}
-}	
+        else	
+	return (c * -1);	
+}
